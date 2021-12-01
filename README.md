@@ -1,4 +1,10 @@
-### Hi there 👋
+### Workflows
+
+
+| status  | description   | outputs  |
+|---|---|---|
+| ![retrieve job offers](https://github.com/taniki/notebooks/actions/workflows/retrieve_pep.yml/badge.svg) |  Récupération des fiches de poste provenant de [Place de l'Emploi Public](https://place-emploi-public.gouv.fr/) concernant les métiers de data analyst et data scientist | csv |
+
 
 <!--
 **taniki/taniki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

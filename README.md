@@ -1,9 +1,11 @@
 ### Datasets
 
 
-| status  | description   | outputs  |
-|---|---|---|
-| ![retrieve job offers](https://github.com/taniki/notebooks/actions/workflows/retrieve_pep.yml/badge.svg) |  Fiches de poste provenant de [Place de l'Emploi Public](https://place-emploi-public.gouv.fr/) concernant les métiers de data analyst et data scientist | csv |
+| status                                                                                                                | description                                                                                                                                            | outputs |
+| --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ------- |
+| ![scrapetweet](https://github.com/taniki/tutotal2022/actions/workflows/scrape.yml/badge.svg)                          | [Tutotal 2022](https://observablehq.com/@taniki/tutotal-2022) : expérimentation de vote par tag twitter                                                | csv     |
+| ![download and unzip](https://github.com/taniki/snapchat-politicalads/actions/workflows/download-unzip.yml/badge.svg) | Archivage des données publicitaires politiques de Snapchat                                                                                             | csv     |
+| ![retrieve job offers](https://github.com/taniki/notebooks/actions/workflows/retrieve_pep.yml/badge.svg)              | Fiches de poste provenant de [Place de l'Emploi Public](https://place-emploi-public.gouv.fr/) concernant les métiers de data analyst et data scientist | csv     |
 
 
 <!--
